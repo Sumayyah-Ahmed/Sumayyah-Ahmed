@@ -36,8 +36,10 @@
 
 ### **Databases / Admin Tools** 
 - **SQL**
-- **phpMyAdmin**
 -  **PostgreSQL**
+
+### Database / Admin Tools**
+- **phpMyAdmin**
 
 ### Extras
 - **Netlify**
@@ -45,7 +47,7 @@
 - **Canva**
 - **GitHub**
 
-## 💌 Let’s Connect!
+### 💌 Let’s Connect!
 - [Portfolio](https://sumayyah-ahmed.github.io/Portfolio/)
 - [LinkedIn](https://linkedin.com/in/saa11)
 - [Email](mailto:ahmedsumayyah781@gmail.com)
