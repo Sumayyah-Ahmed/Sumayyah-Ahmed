@@ -9,7 +9,7 @@
 ## ✨ A few things about me:
 * 🧠 Full-stack developer with a love for clean architecture and expressive interfaces  
 * 🎯 Iterative curator—always refining layout, hierarchy, and tone for maximum impact  
-* 🛠️ Expert in branding and visual hierarchy  
+* 🛠️ Expert in branding and visual desings 
 * 🌱 Always exploring new ways to blend technical mastery with creative vision
 
 
