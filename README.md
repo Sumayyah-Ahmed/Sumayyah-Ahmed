@@ -1,6 +1,6 @@
 ## Hi there, I'm Sumayyah Ahmed! 👋
 
-👩‍💻 Founder of Aziziyah | Lead Developer | Creative Technologist  
+👩‍💻 Founder of Aziziyah | Lead Developer | Creative Technologist.
 🎨 I build thoughtful, user-centered experiences that blend code, design, and storytelling.
 
 🚀 Currently building an app for Ulysses Travel AI Agent and crafting interactive, impactful work.  
@@ -8,7 +8,7 @@
 
 ## ✨ A few things about me:
 * 🧠 Full-stack developer with a love for clean architecture and expressive interfaces  
-* 🎯 Iterative curator—always refining layout, hierarchy, and tone for maximum impact  
+* 🎯 Iterative curator, always refining layout, hierarchy, and tone for maximum impact  
 * 🛠️ Expert in branding and design systems
 * 🌱 Exploring new ways to blend technical mastery with creative vision
 
