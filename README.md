@@ -33,11 +33,11 @@
 - **Supabase**
 - **Firebase**
 
-### **Databases** 
+### Databases
 - **SQL**
 -  **PostgreSQL**
 
-### Database / Admin Tools**
+### Database / Admin Tools
 - **phpMyAdmin**
 
 ### Extras
