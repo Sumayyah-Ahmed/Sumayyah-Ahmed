@@ -19,17 +19,25 @@
 - **Python**
 - **JavaScript**
 - **Java**
+- **Dart**
 
 ### 💖 Most Used Languages
 
 ### Frameworks & Tools
 - **React**
-- **SQL**
 - **TailwindCSS**
 - **Node.js**
+- **Flutter**
+- **CodeIgniter 4**
+
+### Backend Platforms
 - **Supabase**
 - **Firebase**
-- **PostgreSQL**
+
+### **Databases / Admin Tools** 
+- **SQL**
+- **phpMyAdmin**
+-  **PostgreSQL**
 
 ### Extras
 - **Netlify**
