@@ -10,7 +10,7 @@
 * 🧠 Full-stack developer with a love for clean architecture and expressive interfaces  
 * 🎯 Iterative curator—always refining layout, hierarchy, and tone for maximum impact  
 * 🛠️ Expert in branding and design systems
-* 🌱 Always exploring new ways to blend technical mastery with creative vision
+* 🌱 Exploring new ways to blend technical mastery with creative vision
 
 
 ## 🛠 Tech Stack
@@ -34,7 +34,7 @@
 - **Supabase**
 - **Firebase**
 
-### **Databases / Admin Tools** 
+### **Databases** 
 - **SQL**
 -  **PostgreSQL**
 
