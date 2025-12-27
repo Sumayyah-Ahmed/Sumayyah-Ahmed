@@ -4,7 +4,7 @@
 🎨 I build thoughtful, user-centered experiences that blend code, design, and storytelling.
 
 🚀 Currently building an app for Ulysses Travel AI Agent and crafting interactive, impactful work.  
-💡 Passionate about clarity, connection, and elevating ideas through elegant tech.
+💡 Passionate about clarity, clean code, and elevating ideas through elegant tech.
 
 ## ✨ A few things about me:
 * 🧠 Full-stack developer with a love for clean architecture and expressive interfaces  
