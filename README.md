@@ -24,6 +24,7 @@
 
 ### Frameworks & Tools
 - **React**
+- **SQL**
 - **TailwindCSS**
 - **Node.js**
 - **Supabase**
@@ -33,11 +34,11 @@
 ### Extras
 - **Netlify**
 - **Figma**
-- - **Canva**
+- **Canva**
 - **GitHub**
 
 ## 💌 Let’s Connect!
-- [Portfolio](https://sumayyah-ahmed.github.io/Portfolio/).
+- [Portfolio](https://sumayyah-ahmed.github.io/Portfolio/)
 - [LinkedIn](https://linkedin.com/in/saa11)
-- [Email](mailto:ahmedsumayyah781@gmail.com).
+- [Email](mailto:ahmedsumayyah781@gmail.com)
 
