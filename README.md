@@ -48,7 +48,7 @@
 
 
 ### Recent Projects
-- [For Vietnam's students](https://learnenglishlanguages.netlify.app/)
+- [For Vietnam's Students](https://learnenglishlanguages.netlify.app/)
 - [Quick Health Check](https://patienthealthhub.netlify.app/)
 
 
