@@ -48,8 +48,9 @@
 
 
 ### Recent Projects
-https://learnenglishlanguages.netlify.app/
-https://patienthealthhub.netlify.app/
+- [For Vietnam's students](https://learnenglishlanguages.netlify.app/)
+- [Quick Health Check](https://patienthealthhub.netlify.app/)
+
 
 ### 💌 Let’s Connect!
 - [Portfolio](https://sumayyah-ahmed.github.io/Portfolio/)
