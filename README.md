@@ -58,12 +58,6 @@
 - [Email](mailto:ahmedsumayyah781@gmail.com)
 
 
-## 📊 GitHub Stats
-
-![Sumayyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumayyah-Ahmed&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumayyah-Ahmed&theme=radical)
-
 ## 🧠 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyah-Ahmed&layout=compact&theme=radical)
