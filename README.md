@@ -29,7 +29,7 @@
 - **Flutter**
 - **CodeIgniter 4**
 
-- ## 🧠 Top Languages
+## 🧠 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyah-Ahmed&layout=compact&theme=radical)
 
