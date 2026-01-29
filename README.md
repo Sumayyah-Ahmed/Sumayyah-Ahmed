@@ -58,18 +58,18 @@
 - [Email](mailto:ahmedsumayyah781@gmail.com)
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Sumayyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumayyah-Ahmed&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumayyah-Ahmed&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sumayyah-Ahmed&theme=radical) -->
 
 
 ## 🧠 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyah-Ahmed&layout=compact&theme=radical)
 
-## 👀 Profile Views
+<!-- ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sumayyah-Ahmed&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Sumayyah-Ahmed&label=Profile%20views&color=0e75b6&style=flat) -->
 
