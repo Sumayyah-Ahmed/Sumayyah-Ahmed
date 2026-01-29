@@ -20,16 +20,14 @@
 - **Java**
 - **Dart**
 
-### 💖 Most Used Languages
-
-### Frameworks & Tools
+### Frameworks & Tools (TEXT)
 - **React**
 - **TailwindCSS**
 - **Node.js**
 - **Flutter**
 - **CodeIgniter 4**
 
-## 🧠 Top Languages
+### Languages (VISUAL WITH %)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyah-Ahmed&layout=compact&theme=radical)
 
