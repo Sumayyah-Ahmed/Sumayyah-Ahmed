@@ -72,3 +72,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumayyah-Ahmed&label=Profile%20views&color=0e75b6&style=flat)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumayyah-Ahmed&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sumayyah-Ahmed&theme=radical" width="48%" />
+</p>
