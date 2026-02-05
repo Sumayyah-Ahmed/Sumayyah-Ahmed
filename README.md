@@ -27,9 +27,9 @@
 - **Flutter**
 - **CodeIgniter 4**
 
-### Languages (VISUAL WITH %)
+<!-- ### Languages (VISUAL WITH %)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyah-Ahmed&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyah-Ahmed&layout=compact&theme=radical) -->
 
 ### Backend Platforms
 - **Supabase**
