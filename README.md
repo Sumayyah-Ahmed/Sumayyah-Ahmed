@@ -20,7 +20,7 @@
 - **Java**
 - **Dart**
 
-### Frameworks & Tools (TEXT)
+### Frameworks & Tools 
 - **React**
 - **TailwindCSS**
 - **Node.js**
